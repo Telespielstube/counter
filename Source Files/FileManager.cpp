@@ -11,7 +11,9 @@
 #include <fstream>
 #include <string>
 #include <sstream>
+
 #include "../Header Files/FileManager.h"
+#include "../Header Files/File.h"
 
 // Default constructor.
 FileManager::FileManager() = default;
@@ -32,17 +34,22 @@ void FileManager::readFile() {
     std::ifstream content(path);
     std::string line;
     int wordCount = 0;
+
     if (content.is_open()) {
         while (std::getline(content, line)) { // reads the line and puts the string into the line string.
             std::stringstream ss(line);
             std::string word;
             while (ss >> word) { // >> Extracts words from string stream
                 wordCount++;
+                words.push_back(word);
             }
         }
         content.close();
     } else {
         std::cout << "File could not be opened";
     }
+    
+    // Smart pointer to create a File object
+    std::unique_ptr<File> file(new File(input, words));
     std::cout << "Number of words in the said file: " << wordCount << std::endl;
 }

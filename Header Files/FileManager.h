@@ -12,6 +12,7 @@ class FileManager {
 private:
     std::string input;
     std::filesystem::path path;
+    std::vector<std::string> words;
     bool validatePath();
 
 public:

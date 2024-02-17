@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-bcafaa58bed24c353a54.json",
+					"jsonFile" : "directory-.-Debug-bca8c82b8b7282cf7bcb.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.5"
@@ -40,7 +40,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "counter::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-counter-Debug-0d7ee44c37a96ce42cbf.json",
+					"jsonFile" : "target-counter-Debug-8b801fc53a5730fad9ab.json",
 					"name" : "counter",
 					"projectIndex" : 0
 				}
@@ -50,8 +50,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/marta/Developer/counter/cmake-build-debug",
-		"source" : "/Users/marta/Developer/counter"
+		"build" : "/Users/marta/Developer/CLionProjects/counter/cmake-build-debug",
+		"source" : "/Users/marta/Developer/CLionProjects/counter"
 	},
 	"version" : 
 	{

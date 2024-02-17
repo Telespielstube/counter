@@ -2,7 +2,6 @@
 #include "../Header Files/menu.h"
 #include "../Header Files/FileManager.h"
 
-
 int main()
 {
     Menu menu;
