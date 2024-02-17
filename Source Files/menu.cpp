@@ -1,4 +1,4 @@
-#include "menu.h"
+#include "../Header Files/menu.h"
 #include <iostream>
 
 Menu::Menu()
@@ -18,6 +18,7 @@ void Menu::showMenu()
         std::cout << counter << ". " << element << std::endl;
         counter++;
     }
+    counter = 1;
     std::cout << "\nChoose: ";
 }
 

@@ -6,6 +6,7 @@
 #define COUNTER_FILEMANAGER_H
 
 #include <string>
+#include <filesystem>
 
 class FileManager {
 private:

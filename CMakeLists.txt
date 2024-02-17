@@ -5,10 +5,10 @@ project(counter LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(counter main.cpp
-    menu.h menu.cpp
-        FileManager.cpp
-        FileManager.h
+add_executable(counter "Source Files/main.cpp"
+        "Header Files/menu.h" "Source Files/menu.cpp"
+        "Source Files/FileManager.cpp"
+        "Header Files/FileManager.h"
 
 )
 
