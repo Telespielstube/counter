@@ -1,0 +1,13 @@
+# ninja log v5
+0	244	1708165584272968030	CMakeFiles/counter.dir/main.cpp.o	cc19f1e10d4767f9
+0	262	1708165584291814136	CMakeFiles/counter.dir/menu.cpp.o	1e2046239eded803
+262	289	1708165584319809582	counter	997e38094e4e57bd
+5	251	1708167132018798774	CMakeFiles/counter.dir/FileManager.cpp.o	5daffeda57b92e7c
+4	251	1708167132019676892	CMakeFiles/counter.dir/main.cpp.o	cc19f1e10d4767f9
+5	270	1708167132038987039	CMakeFiles/counter.dir/menu.cpp.o	1e2046239eded803
+271	297	1708167132067169619	counter	a152ae1d19f1b49b
+3	248	1708167232266472204	CMakeFiles/counter.dir/FileManager.cpp.o	5daffeda57b92e7c
+248	275	1708167232295320529	counter	a152ae1d19f1b49b
+4	240	1708167465077624767	CMakeFiles/counter.dir/FileManager.cpp.o	5daffeda57b92e7c
+4	250	1708167465087588567	CMakeFiles/counter.dir/main.cpp.o	cc19f1e10d4767f9
+4	235	1708167496189174111	CMakeFiles/counter.dir/FileManager.cpp.o	5daffeda57b92e7c
