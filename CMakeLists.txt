@@ -9,9 +9,10 @@ add_executable(counter "Source Files/main.cpp"
         "Header Files/menu.h" "Source Files/menu.cpp"
         "Source Files/FileManager.cpp"
         "Header Files/FileManager.h"
-        "Source Files/Storage.cpp"
         "Source Files/File.cpp"
         "Header Files/File.h"
+        "Header Files/Storage.h"
+        "Source Files/Storage.cpp"
 
 )
 

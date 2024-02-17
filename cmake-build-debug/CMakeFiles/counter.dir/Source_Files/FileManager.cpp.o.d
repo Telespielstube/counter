@@ -793,4 +793,6 @@ CMakeFiles/counter.dir/Source_Files/FileManager.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/fstream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/sstream \
   /Users/marta/Developer/CLionProjects/counter/Source\ Files/../Header\ Files/FileManager.h \
-  /Users/marta/Developer/CLionProjects/counter/Source\ Files/../Header\ Files/File.h
+  /Users/marta/Developer/CLionProjects/counter/Source\ Files/../Header\ Files/File.h \
+  /Users/marta/Developer/CLionProjects/counter/Source\ Files/../Header\ Files/Storage.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/list

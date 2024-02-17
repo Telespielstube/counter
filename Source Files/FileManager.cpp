@@ -14,6 +14,7 @@
 
 #include "../Header Files/FileManager.h"
 #include "../Header Files/File.h"
+#include "../Header Files/Storage.h"
 
 // Default constructor.
 FileManager::FileManager() = default;
@@ -33,6 +34,7 @@ bool FileManager::validatePath() {
 void FileManager::readFile() {
     std::ifstream content(path);
     std::string line;
+    Storage* storage = new Storage();
     int wordCount = 0;
 
     if (content.is_open()) {
@@ -52,4 +54,6 @@ void FileManager::readFile() {
     // Smart pointer to create a File object
     std::unique_ptr<File> file(new File(input, words));
     std::cout << "Number of words in the said file: " << wordCount << std::endl;
+    file->splitFileName();
+    storage->addToList(*file);
 }

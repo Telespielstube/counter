@@ -124,6 +124,9 @@
 		<Unit filename="/Users/marta/Developer/CLionProjects/counter/Header Files/FileManager.h">
 			<Option target="counter"/>
 		</Unit>
+		<Unit filename="/Users/marta/Developer/CLionProjects/counter/Header Files/Storage.h">
+			<Option target="counter"/>
+		</Unit>
 		<Unit filename="/Users/marta/Developer/CLionProjects/counter/Header Files/menu.h">
 			<Option target="counter"/>
 		</Unit>

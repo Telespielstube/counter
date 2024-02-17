@@ -1,11 +1,14 @@
 #include <iostream>
 #include "../Header Files/menu.h"
 #include "../Header Files/FileManager.h"
+#include "../Header Files/Storage.h"
 
 int main()
 {
     Menu menu;
     FileManager fileManager;
+    File file;
+    Storage storage;
 
     while (true) {
         menu.showMenu();
@@ -13,6 +16,7 @@ int main()
             case '1':
                 if (fileManager.userInput()) {
                     fileManager.readFile();
+
                 } else {
                     std::cout << "Path not correct";
                     continue;

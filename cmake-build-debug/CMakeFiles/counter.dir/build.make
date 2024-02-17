@@ -111,24 +111,10 @@ CMakeFiles/counter.dir/Source_Files/FileManager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/counter.dir/Source_Files/FileManager.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marta/Developer/CLionProjects/counter/Source Files/FileManager.cpp" -o CMakeFiles/counter.dir/Source_Files/FileManager.cpp.s
 
-CMakeFiles/counter.dir/Source_Files/Storage.cpp.o: CMakeFiles/counter.dir/flags.make
-CMakeFiles/counter.dir/Source_Files/Storage.cpp.o: /Users/marta/Developer/CLionProjects/counter/Source\ Files/Storage.cpp
-CMakeFiles/counter.dir/Source_Files/Storage.cpp.o: CMakeFiles/counter.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/marta/Developer/CLionProjects/counter/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/counter.dir/Source_Files/Storage.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/counter.dir/Source_Files/Storage.cpp.o -MF CMakeFiles/counter.dir/Source_Files/Storage.cpp.o.d -o CMakeFiles/counter.dir/Source_Files/Storage.cpp.o -c "/Users/marta/Developer/CLionProjects/counter/Source Files/Storage.cpp"
-
-CMakeFiles/counter.dir/Source_Files/Storage.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/counter.dir/Source_Files/Storage.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marta/Developer/CLionProjects/counter/Source Files/Storage.cpp" > CMakeFiles/counter.dir/Source_Files/Storage.cpp.i
-
-CMakeFiles/counter.dir/Source_Files/Storage.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/counter.dir/Source_Files/Storage.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marta/Developer/CLionProjects/counter/Source Files/Storage.cpp" -o CMakeFiles/counter.dir/Source_Files/Storage.cpp.s
-
 CMakeFiles/counter.dir/Source_Files/File.cpp.o: CMakeFiles/counter.dir/flags.make
 CMakeFiles/counter.dir/Source_Files/File.cpp.o: /Users/marta/Developer/CLionProjects/counter/Source\ Files/File.cpp
 CMakeFiles/counter.dir/Source_Files/File.cpp.o: CMakeFiles/counter.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/marta/Developer/CLionProjects/counter/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/counter.dir/Source_Files/File.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/marta/Developer/CLionProjects/counter/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/counter.dir/Source_Files/File.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/counter.dir/Source_Files/File.cpp.o -MF CMakeFiles/counter.dir/Source_Files/File.cpp.o.d -o CMakeFiles/counter.dir/Source_Files/File.cpp.o -c "/Users/marta/Developer/CLionProjects/counter/Source Files/File.cpp"
 
 CMakeFiles/counter.dir/Source_Files/File.cpp.i: cmake_force
@@ -139,13 +125,27 @@ CMakeFiles/counter.dir/Source_Files/File.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/counter.dir/Source_Files/File.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marta/Developer/CLionProjects/counter/Source Files/File.cpp" -o CMakeFiles/counter.dir/Source_Files/File.cpp.s
 
+CMakeFiles/counter.dir/Source_Files/Storage.cpp.o: CMakeFiles/counter.dir/flags.make
+CMakeFiles/counter.dir/Source_Files/Storage.cpp.o: /Users/marta/Developer/CLionProjects/counter/Source\ Files/Storage.cpp
+CMakeFiles/counter.dir/Source_Files/Storage.cpp.o: CMakeFiles/counter.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/marta/Developer/CLionProjects/counter/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/counter.dir/Source_Files/Storage.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/counter.dir/Source_Files/Storage.cpp.o -MF CMakeFiles/counter.dir/Source_Files/Storage.cpp.o.d -o CMakeFiles/counter.dir/Source_Files/Storage.cpp.o -c "/Users/marta/Developer/CLionProjects/counter/Source Files/Storage.cpp"
+
+CMakeFiles/counter.dir/Source_Files/Storage.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/counter.dir/Source_Files/Storage.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marta/Developer/CLionProjects/counter/Source Files/Storage.cpp" > CMakeFiles/counter.dir/Source_Files/Storage.cpp.i
+
+CMakeFiles/counter.dir/Source_Files/Storage.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/counter.dir/Source_Files/Storage.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marta/Developer/CLionProjects/counter/Source Files/Storage.cpp" -o CMakeFiles/counter.dir/Source_Files/Storage.cpp.s
+
 # Object files for target counter
 counter_OBJECTS = \
 "CMakeFiles/counter.dir/Source_Files/main.cpp.o" \
 "CMakeFiles/counter.dir/Source_Files/menu.cpp.o" \
 "CMakeFiles/counter.dir/Source_Files/FileManager.cpp.o" \
-"CMakeFiles/counter.dir/Source_Files/Storage.cpp.o" \
-"CMakeFiles/counter.dir/Source_Files/File.cpp.o"
+"CMakeFiles/counter.dir/Source_Files/File.cpp.o" \
+"CMakeFiles/counter.dir/Source_Files/Storage.cpp.o"
 
 # External object files for target counter
 counter_EXTERNAL_OBJECTS =
@@ -153,8 +153,8 @@ counter_EXTERNAL_OBJECTS =
 counter: CMakeFiles/counter.dir/Source_Files/main.cpp.o
 counter: CMakeFiles/counter.dir/Source_Files/menu.cpp.o
 counter: CMakeFiles/counter.dir/Source_Files/FileManager.cpp.o
-counter: CMakeFiles/counter.dir/Source_Files/Storage.cpp.o
 counter: CMakeFiles/counter.dir/Source_Files/File.cpp.o
+counter: CMakeFiles/counter.dir/Source_Files/Storage.cpp.o
 counter: CMakeFiles/counter.dir/build.make
 counter: CMakeFiles/counter.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/marta/Developer/CLionProjects/counter/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable counter"
