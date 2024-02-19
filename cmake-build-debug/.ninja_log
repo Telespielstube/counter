@@ -1,9 +1,8 @@
 # ninja log v5
-1	295	1708178603679696191	build.ninja	767812ae5bf556fa
-2106	2249	1708176064106966669	counter	bc7d52a01caa43b8
-1	2029	1708176063875759282	CMakeFiles/counter.dir/Source_Files/menu.cpp.o	fc4885b31a741526
-0	2038	1708176063886968150	CMakeFiles/counter.dir/Source_Files/main.cpp.o	9e9001554b9a68c1
-1	2106	1708176063958255247	CMakeFiles/counter.dir/Source_Files/FileManager.cpp.o	ba0bf0d8ae6eaa85
-1	241	1708178603679696191	build.ninja	767812ae5bf556fa
-18	2666	1708178606349208970	CMakeFiles/counter.dir/Source_Files/menu.cpp.o	2bc945af97adb4b6
-18	2957	1708178606643389099	CMakeFiles/counter.dir/Source_Files/FileManager.cpp.o	3264d8f9067845c3
+5	324	1708211283706262320	CMakeFiles/counter.dir/Source_Files/FileManager.cpp.o	9fd2b3a835119fe9
+1	288	1708211230939021629	CMakeFiles/counter.dir/Source_Files/main.cpp.o	fd1daa3b2ce72ae8
+1	270	1708211230920172170	CMakeFiles/counter.dir/Source_Files/menu.cpp.o	f7d11bae8879ac7f
+0	37	1708281498830435717	build.ninja	c879e2796342c47b
+5	269	1708211283651140982	CMakeFiles/counter.dir/Source_Files/File.cpp.o	5e4d76a899a0f23
+5	220	1708211283602823839	CMakeFiles/counter.dir/Source_Files/Storage.cpp.o	9b3163ffca61defc
+324	350	1708211283734517299	counter	2f16a02a9043cde7

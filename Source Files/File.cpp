@@ -28,5 +28,4 @@ void File::splitFileName() {
         filePath.erase(0, pos + delimiter.length());
     }
     this->fileName = filePath;
-    std::cout << fileName;
 }

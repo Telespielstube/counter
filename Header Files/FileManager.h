@@ -29,6 +29,11 @@ public:
      *
      */
     void readFile();
+
+    /**
+     *
+     */
+    void count(std::ifstream &content, int &wordCount);
 };
 
 

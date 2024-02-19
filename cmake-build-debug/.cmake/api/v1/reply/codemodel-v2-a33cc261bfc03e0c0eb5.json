@@ -40,7 +40,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "counter::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-counter-Debug-d1672469f920e4f93cd6.json",
+					"jsonFile" : "target-counter-Debug-5aa0b5fd8c753cabb3d0.json",
 					"name" : "counter",
 					"projectIndex" : 0
 				}
@@ -50,8 +50,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/marta/Developer/CLionProjects/counter/cmake-build-debug",
-		"source" : "/Users/marta/Developer/CLionProjects/counter"
+		"build" : "/Users/marta/Developer/counter/cmake-build-debug",
+		"source" : "/Users/marta/Developer/counter"
 	},
 	"version" : 
 	{
